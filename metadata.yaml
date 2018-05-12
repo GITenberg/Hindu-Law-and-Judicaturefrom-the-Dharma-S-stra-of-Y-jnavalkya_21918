@@ -25,6 +25,8 @@ creator:
     gutenberg_agent_id: '24967'
     url: http://www.gutenberg.org/2009/agents/24967
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21918#Hindu-Law-and-Judicaturefrom-the-Dharma-S-stra-of-Y-jnavalkya
 gutenberg_bookshelf: Hinduism
 gutenberg_issued: '2007-06-24'
 gutenberg_type: Text
