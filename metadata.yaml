@@ -1,0 +1,44 @@
+_repo: Hindu-Law-and-Judicaturefrom-the-Dharma-S-stra-of-Y-jnavalkya_21918
+_version: 0.1.0
+contributor:
+  translators:
+  - agent_name: Montriou, W. A. (William Austin)
+    alias: Montriou, William Austin
+    birthdate: 1810
+    gutenberg_agent_id: '24969'
+    url: http://www.gutenberg.org/2009/agents/24969
+  - agent_name: Röer, Edward
+    aliases:
+    - Edward Röer
+    - Roer, Edward
+    birthdate: 1805
+    deathdate: 1866
+    gutenberg_agent_id: '24968'
+    url: http://www.gutenberg.org/2009/agents/24968
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Yájnavalkya
+    alias: Yajnavalkya
+    gutenberg_agent_id: '24967'
+    url: http://www.gutenberg.org/2009/agents/24967
+description: ''
+gutenberg_bookshelf: Hinduism
+gutenberg_issued: '2007-06-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21918'
+  lccn: '75502495'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'KN'
+- !lcsh 'Hindu law'
+title: 'Hindu Law and Judicature
+
+  from the Dharma-Sástra of Yájnavalkya'
+url: http://www.gutenberg.org/ebooks/21918
